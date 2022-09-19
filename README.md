@@ -4,7 +4,7 @@ About
 In this project, we will simulate a smart house equipped with IoT devices to control and monitor the lights, open and close a door, and regulate the home's temperature. A user interface dashboard is created in the ThingsBoard IoT platform in order to simulate the smart house. The data transferring is done via MQTT protocols.
 
 Below is a sample of a designed dashboard in ThingsBoard.
-![This is an image](/Images/Dashboard.png)
+![This is a](/Images/Dashboard.png)
 
 
 Installation
