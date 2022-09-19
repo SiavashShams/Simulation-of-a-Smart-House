@@ -8,5 +8,5 @@ Installation
 ```sh
 pip3 install -r requierments.txt
 ```
-Users guide
+User's guide
 ------------
